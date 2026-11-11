@@ -31,8 +31,3 @@ An interactive desktop mini-game built with Python that combines core Industrial
    ```bash
    python endustri_oyunu.py
 
-1. Make sure you have Python installed on your computer.
-2. Clone or download this repository.
-3. Open the project folder and run the script:
-   ```bash
-   python endustri_oyunu.py
